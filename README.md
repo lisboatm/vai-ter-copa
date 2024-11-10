@@ -83,5 +83,3 @@ Onde `input.txt` é um arquivo com os dados de entrada.
 ### **Notas Adicionais**
 - O uso de `sys.stdin` é essencial para leitura contínua até o fim do arquivo (EOF), o que é necessário em ambientes de competição como o Beecrowd.
 - O código é otimizado para funcionar de forma eficiente mesmo para o maior valor permitido (`N = 100`).
-
-Esperamos que esse README ajude a compreender o problema e a solução implementada!
